@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jaxrs-api-2.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-client-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-json-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-server-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jersey-servlet-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/resteasy-jaxrs-2.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/scannotation-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/catchevani/workspace/java-json.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
